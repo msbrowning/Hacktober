@@ -2,44 +2,40 @@
 Commit things here for reasons.
 Getting everyone coding for hacktober
 
+/*Finish my breaks? */
+
 @charset "utf-8"; <br>
 @font-face { <br>
     font-family: Champagne;<br>
     src: url('cac_champagne.woff') format('woff'), <br>
          url('cac_champagne.ttf') format('truetype');<br>
 }<br>
-@font-face {   font-family: Grunge;
-    src: url('1942.woff') format('woff'),
-         url('1942.ttf') format('truetype');
-}
-@font-face {    font-family: Dobkin;
-    src: url('DobkinPlain.woff') format('woff'),
-         url('DobkinPlain.ttf') format('truetype')
-}
+@font-face {   font-family: Grunge;<br>
+    src: url('1942.woff') format('woff'),<br>
+         url('1942.ttf') format('truetype');<br>
+}<br>
+@font-face {    font-family: Dobkin;<br>
+    src: url('DobkinPlain.woff') format('woff'),<br>
+         url('DobkinPlain.ttf') format('truetype')<br>
+}<br>
 /*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 2
-   Case Problem 1
-   
-   PHCT Typographic Style Sheet
+ 
    Author: CillyCierra13
    Date:   10-31-18
-   
-   Filename: ph_styles.css
-
+ 
 */
 
 
-/* Structural Styles */
-html {
-    background-color: hsl(91, 8%, 56%);
-}
-body {
-    background-color: hsl(58, 31%, 84%);
-    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-}
-header {
-     background-color: black;
+/* Structural Styles */<br>
+html {<br>
+    background-color: hsl(91, 8%, 56%);<br>
+}<br>
+body {<br>
+    background-color: hsl(58, 31%, 84%);<br>
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;<br>
+}<br>
+header {<br>
+     background-color: black;<br>
  }
 p{
     margin: 0px;
