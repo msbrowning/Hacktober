@@ -2,12 +2,12 @@
 Commit things here for reasons.
 Getting everyone coding for hacktober
 
-@charset "utf-8";
-@font-face {
-    font-family: Champagne;
-    src: url('cac_champagne.woff') format('woff'),
-         url('cac_champagne.ttf') format('truetype');
-}
+@charset "utf-8"; <br>
+@font-face { <br>
+    font-family: Champagne;<br>
+    src: url('cac_champagne.woff') format('woff'), <br>
+         url('cac_champagne.ttf') format('truetype');<br>
+}<br>
 @font-face {   font-family: Grunge;
     src: url('1942.woff') format('woff'),
          url('1942.ttf') format('truetype');
