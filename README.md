@@ -1,3 +1,3 @@
 # Hacktober
-* Commit things here for reasons.
-* Learning Git during Hacktoberfest.
+Commit things here for reasons.
+Getting everyone coding for hacktober
